@@ -1,5 +1,9 @@
 # Ferramentas
 
+### Design
+
+* [Adobe Color - Paleta de Cores](https://color.adobe.com/pt/create/color-wheel/)
+
 ### Envio de Emails
 
 * [Mailtrap.io](https://mailtrap.io/)
@@ -11,4 +15,4 @@
 ### Validação de Dados
 
 * [4devs](https://www.4devs.com.br)
-* [Lymas](http://tools.lymas.com.br/regexp_br.php)
+* [Lymas - Regexp](http://tools.lymas.com.br/regexp_br.php)
