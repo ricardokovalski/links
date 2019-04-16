@@ -25,18 +25,3 @@
 ### Design
 
 * [Adobe Color - Paleta de Cores](https://color.adobe.com/pt/create/color-wheel/)
-
-### Ferramentas de Envio de E-mails
-
-* [Mailtrap.io](https://mailtrap.io/)
-
-### Ferramentas de Gerenciamento de Tarefas
-
-* [ClickUp](https://app.clickup.com/)
-
-### Ferramentas de Validação de dados
-
-* [4devs](https://www.4devs.com.br)
-* [Lymas](http://tools.lymas.com.br/regexp_br.php)
-
-
