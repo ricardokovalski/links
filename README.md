@@ -32,6 +32,7 @@
 ### Ferramentas de Validação de dados
 
 * [4devs](https://www.4devs.com.br)
+* [Lymas](http://tools.lymas.com.br/regexp_br.php)
 
 ### Plataformas de Cursos Online
 
