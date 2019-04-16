@@ -13,7 +13,7 @@
 ### Desenvolvimento
 
 * [Font Awesome](https://fontawesome.com)
-* [GuiaCódigo](https://www.guiacodigo.com.br/)
+* [GuiaCódigo](https://www.guiacodigo.com/)
 * [School of Net](https://www.schoolofnet.com/)
 * [School of Net - Github](https://github.com/schoolofnetcom/)
 * [Tableless](https://tableless.com.br)
