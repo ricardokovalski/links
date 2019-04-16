@@ -2,8 +2,8 @@
 
 ### Educação
 
-* [Editoras](/education.md#editoras)
 * [Cursos Online](/education.md#cursos-online)
+* [Editoras](/education.md#editoras)
 
 ### Ferramentas
 
