@@ -27,7 +27,3 @@
 * [School of Net - Github](https://github.com/schoolofnetcom/)
 * [Tableless](https://tableless.com.br)
 * [TIOBE - Ranking das Linguagens de programação](https://www.tiobe.com/tiobe-index/)
-
-### Design
-
-* [Adobe Color - Paleta de Cores](https://color.adobe.com/pt/create/color-wheel/)
