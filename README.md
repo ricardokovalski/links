@@ -1,6 +1,9 @@
 # Helpful Links Library
 
-### [Educação](/education.md)
+### Educação
+
+* [Editoras](/education.md#editoras)
+* [Plataformas de Cursos Online](/education.md#plataformas-de-cursos-online)
 
 ### Charts
 
