@@ -2,7 +2,7 @@
 
 ### Charts
 
-* [Charts JS - Documentação](https://www.chartjs.org/docs/latest/charts/bar.html)
+* [Charts JS - Documentação](https://www.chartjs.org/docs/latest/)
 * [Highcharts - Documentação](https://www.highcharts.com/)
 
 ### Dashboards
