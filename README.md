@@ -3,7 +3,7 @@
 ### Educação
 
 * [Editoras](/education.md#editoras)
-* [Plataformas de Cursos Online](/education.md#plataformas-de-cursos-online)
+* [Cursos Online](/education.md#cursos-online)
 
 ### Charts
 
