@@ -1,6 +1,6 @@
 # Helpful Links Library
 
-### Educação(/education)
+### [Educação](/education.md)
 
 ### Charts
 
