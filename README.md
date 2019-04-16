@@ -17,7 +17,7 @@
 * [School of Net](https://www.schoolofnet.com/)
 * [School of Net - Github](https://github.com/schoolofnetcom/)
 * [Tableless](https://tableless.com.br)
-* [TIOBE](https://www.tiobe.com)
+* [TIOBE - Ranking das Linguagens de programação](https://www.tiobe.com/tiobe-index/)
 
 ### Design
 
