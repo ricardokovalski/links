@@ -18,6 +18,6 @@
 
 * [Mailtrap.io](https://mailtrap.io/)
 
-#### Ferramentas de Gerenciamento de Tarefas
+### Ferramentas de Gerenciamento de Tarefas
 
 * [ClickUp](https://app.clickup.com/)
