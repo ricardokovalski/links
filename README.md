@@ -13,8 +13,6 @@
 ### Desenvolvimento
 
 * [Font Awesome](https://fontawesome.com)
-* [GuiaCódigo](https://www.guiacodigo.com/)
-* [School of Net](https://www.schoolofnet.com/)
 * [School of Net - Github](https://github.com/schoolofnetcom/)
 * [Tableless](https://tableless.com.br)
 * [TIOBE - Ranking das Linguagens de programação](https://www.tiobe.com/tiobe-index/)
@@ -34,3 +32,9 @@
 ### Ferramentas de Validação de dados
 
 * [4devs](https://www.4devs.com.br)
+
+### Plataformas de Cursos Online
+
+* [GuiaCódigo](https://www.guiacodigo.com/)
+* [School of Net](https://www.schoolofnet.com/)
+* [Udemy](https://www.udemy.com/)
