@@ -16,5 +16,6 @@
 
 * [4devs](https://www.4devs.com.br)
 * [Regex101](https://regex101.com/)
+* [Regextester](https://www.regextester.com/)
 * [Rubular](https://rubular.com/)
 * [O básico sobre expressões regulares](https://tableless.com.br/o-basico-sobre-expressoes-regulares/)
