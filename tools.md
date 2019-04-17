@@ -15,5 +15,6 @@
 ### Validação de Dados
 
 * [4devs](https://www.4devs.com.br)
-* [Lymas - Regexp](http://tools.lymas.com.br/regexp_br.php)
+* [Regex101](https://regex101.com/)
+* [Rubular](https://rubular.com/)
 * [O básico sobre expresses regulares](https://tableless.com.br/o-basico-sobre-expressoes-regulares/)
