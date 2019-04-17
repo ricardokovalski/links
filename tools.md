@@ -5,6 +5,8 @@
 * [Adobe Color - Paleta de Cores](https://color.adobe.com/pt/create/color-wheel/)
 * [8 sites sobre paleta de cores que todo Designer precisa saber!](https://medium.com/uai-ux/8-sites-sobre-paleta-de-cores-que-todo-designer-precisa-saber-a02bbba3291)
 
+### Envio de Emails
+
 * [Mailtrap.io](https://mailtrap.io/)
 
 ### Gerenciamento de Tarefas
