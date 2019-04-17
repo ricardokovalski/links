@@ -17,4 +17,4 @@
 * [4devs](https://www.4devs.com.br)
 * [Regex101](https://regex101.com/)
 * [Rubular](https://rubular.com/)
-* [O básico sobre expresses regulares](https://tableless.com.br/o-basico-sobre-expressoes-regulares/)
+* [O básico sobre expressões regulares](https://tableless.com.br/o-basico-sobre-expressoes-regulares/)
