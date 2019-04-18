@@ -12,6 +12,7 @@
 * [TargetTrust](https://targettrust.com.br/)
 * [Treinaweb](https://www.treinaweb.com.br/)
 * [Udemy](https://www.udemy.com/)
+* [Upinside](https://www.upinside.com.br/)
 
 ### Editoras
 
