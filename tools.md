@@ -14,11 +14,15 @@
 
 ### Envio de Emails
 
-* [Mailtrap.io](https://mailtrap.io/)
+* [Mailtrap](https://mailtrap.io/)
 
 ### Gerenciamento de Tarefas
 
 * [ClickUp](https://app.clickup.com/)
+
+### Imagens
+
+* [Generator profile Photos](https://thispersondoesnotexist.com/image/)
 
 ### Validação de Dados
 
