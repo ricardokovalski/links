@@ -22,7 +22,7 @@
 
 ### Imagens
 
-* [Generator profile Photos](https://thispersondoesnotexist.com/image/)
+* [Generator Profile Photos](https://thispersondoesnotexist.com/image/)
 
 ### Validação de Dados
 
