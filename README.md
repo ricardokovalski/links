@@ -3,7 +3,7 @@
 ### Educação
 
 * [Cursos Online](/education.md#cursos-online)
-* [Editoras](/education.md#editoras
+* [Editoras](/education.md#editoras)
 
 ### Desenvolvimento
 
