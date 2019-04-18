@@ -2,8 +2,11 @@
 
 ### Design
 
-* [Adobe Color - Paleta de Cores](https://color.adobe.com/pt/create/color-wheel/)
-* [8 sites sobre paleta de cores que todo Designer precisa saber!](https://medium.com/uai-ux/8-sites-sobre-paleta-de-cores-que-todo-designer-precisa-saber-a02bbba3291)
+* [Adobe Color](https://color.adobe.com/pt/create/color-wheel/)
+* [Coolors](https://coolors.co)
+* [Shutterstock](https://www.shutterstock.com/)
+* [Colourco](https://colourco.de)
+* [Flatuicolors](https://flatuicolors.com)
 
 ### Envio de Emails
 
