@@ -19,6 +19,7 @@
 ### Gerenciamento de Tarefas
 
 * [ClickUp](https://app.clickup.com/)
+* [Trello](https://trello.com/)
 
 ### Imagens
 
