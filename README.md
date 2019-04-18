@@ -26,7 +26,10 @@
 
 ### Desenvolvimento
 
+* [Ebookfoudation](https://ebookfoundation.github.io/free-programming-books/)
 * [Font Awesome](https://fontawesome.com)
 * [School of Net - Github](https://github.com/schoolofnetcom/)
 * [Tableless](https://tableless.com.br)
 * [TIOBE - Ranking das Linguagens de programação](https://www.tiobe.com/tiobe-index/)
+* [Codeanywhere](https://codeanywhere.com/)
+* [Imasters](https://imasters.com.br/)
