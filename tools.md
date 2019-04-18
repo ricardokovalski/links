@@ -7,6 +7,7 @@
 * [Colourco](https://colourco.de/)
 * [Coolors](https://coolors.co/)
 * [Flatuicolors](https://flatuicolors.com/)
+* [Uigradients](https://uigradients.com/)
 * [Materialui](https://www.materialui.co/)
 * [Palettable](https://www.palettable.io/)
 * [Shutterstock](https://www.shutterstock.com/)
