@@ -14,8 +14,9 @@
 
 ### Charts
 
-* [Charts JS - Documentação](https://www.chartjs.org/docs/latest/)
-* [Highcharts - Documentação](https://www.highcharts.com/)
+* [Chartist JS](https://gionkunz.github.io/chartist-js/)
+* [Charts JS](https://www.chartjs.org/docs/latest/)
+* [Highcharts](https://www.highcharts.com/)
 
 ### Dashboards
 
