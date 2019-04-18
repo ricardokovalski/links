@@ -2,11 +2,14 @@
 
 ### Design
 
-* [Adobe Color](https://color.adobe.com/pt/create/color-wheel/)
-* [Coolors](https://coolors.co)
+* [Adobe Color](https://color.adobe.com/pt/create/)
+* [Colorfavs](http://www.colorfavs.com/)
+* [Colourco](https://colourco.de/)
+* [Coolors](https://coolors.co/)
+* [Flatuicolors](https://flatuicolors.com/)
+* [Materialui](https://www.materialui.co/)
+* [Palettable](https://www.palettable.io/)
 * [Shutterstock](https://www.shutterstock.com/)
-* [Colourco](https://colourco.de)
-* [Flatuicolors](https://flatuicolors.com)
 
 ### Envio de Emails
 
