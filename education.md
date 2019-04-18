@@ -6,6 +6,7 @@
 * [Alura](https://www.alura.com.br/)
 * [Caelum](https://www.caelum.com.br/)
 * [Devmedia](https://www.devmedia.com.br/)
+* [EspecializaTi](https://www.especializati.com.br/)
 * [Next U](https://www.nextu.com.br/)
 * [GuiaCódigo](https://www.guiacodigo.com/)
 * [School of Net](https://www.schoolofnet.com/)
