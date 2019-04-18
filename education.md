@@ -10,6 +10,7 @@
 * [GuiaCódigo](https://www.guiacodigo.com/)
 * [School of Net](https://www.schoolofnet.com/)
 * [TargetTrust](https://targettrust.com.br/)
+* [Treinaweb](https://www.treinaweb.com.br/)
 * [Udemy](https://www.udemy.com/)
 
 ### Editoras
