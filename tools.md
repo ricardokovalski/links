@@ -24,6 +24,7 @@
 ### Imagens
 
 * [Generator Profile Photos](https://thispersondoesnotexist.com/)
+* [LightShot](https://app.prntscr.com/pt-br/index.html)
 
 ### Validação de Dados
 
