@@ -11,6 +11,11 @@
 * [Admin LTE 2](https://adminlte.io/themes/AdminLTE/)
 * [Bracket plus](http://themepixels.me/bracketplus/app/)
 
+### Nuvem
+
+* [Codeanywhere](https://codeanywhere.com/)
+* [Cloud9](https://aws.amazon.com/pt/cloud9/)
+
 ### Outros
 
 * [Bootstrap](https://getbootstrap.com/)
@@ -20,7 +25,5 @@
 * [School of Net - Github](https://github.com/schoolofnetcom/)
 * [Tableless](https://tableless.com.br)
 * [TIOBE - Ranking das Linguagens de programação](https://www.tiobe.com/tiobe-index/)
-* [Codeanywhere](https://codeanywhere.com/)
-* [Cloud9](https://aws.amazon.com/pt/cloud9/)
 * [Imasters](https://imasters.com.br/)
 * [EspecializaTi - Github](https://github.com/EspecializaTi/)
