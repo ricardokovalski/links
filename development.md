@@ -11,7 +11,7 @@
 * [Admin LTE 2](https://adminlte.io/themes/AdminLTE/)
 * [Bracket plus](http://themepixels.me/bracketplus/app/)
 
-### Nuvem
+### Cloud Computing
 
 * [Codeanywhere](https://codeanywhere.com/)
 * [Cloud9](https://aws.amazon.com/pt/cloud9/)
