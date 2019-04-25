@@ -9,6 +9,7 @@
 
 * [Charts](/development.md#charts)
 * [Dashboards](/development.md#dashboards)
+* [Cloud Computing](/development.md#cloud-computing)
 * [Outros](/development.md#outros)
 
 ### Ferramentas
