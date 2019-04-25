@@ -32,3 +32,9 @@
 * [TIOBE - Ranking das Linguagens de programação](https://www.tiobe.com/tiobe-index/)
 * [Imasters](https://imasters.com.br/)
 * [EspecializaTi - Github](https://github.com/EspecializaTi/)
+* [Oauth](https://oauth.io/)
+* [Sublime Text](https://www.sublimetext.com/)
+* [Snippi](http://snippi.com/)
+* [Codepen](https://codepen.io/)
+* [Panda](https://usepanda.com/)
+
