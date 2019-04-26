@@ -37,4 +37,8 @@
 * [Snippi](http://snippi.com/)
 * [Codepen](https://codepen.io/)
 * [Panda](https://usepanda.com/)
+* [Fórum Tableless](http://forum.tableless.com.br/)
+* [Devnaestrada](https://devnaestrada.com.br/)
+* [Guj](https://www.guj.com.br/)
+* [Fórum Imarters](https://forum.imasters.com.br/)
 
