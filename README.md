@@ -10,6 +10,7 @@
 * [Charts](/development.md#charts)
 * [Dashboards](/development.md#dashboards)
 * [Cloud Computing](/development.md#cloud-computing)
+* [Foruns](/development.md#foruns)
 * [Frameworks FrontEnd](/development.md#frameworks-frontend)
 * [Outros](/development.md#outros)
 
