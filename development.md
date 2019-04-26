@@ -18,6 +18,13 @@
 * [JsFiddle](https://jsfiddle.net/)
 * [PythonFiddle](http://pythonfiddle.com/)
 
+### Fóruns
+
+* [Devnaestrada](https://devnaestrada.com.br/)
+* [Guj](https://www.guj.com.br/)
+* [Imasters](https://forum.imasters.com.br/)
+* [Tableless](http://forum.tableless.com.br/)
+
 ### Frameworks FrontEnd
 
 * [Bootstrap](https://getbootstrap.com/)
@@ -37,8 +44,3 @@
 * [Snippi](http://snippi.com/)
 * [Codepen](https://codepen.io/)
 * [Panda](https://usepanda.com/)
-* [Fórum Tableless](http://forum.tableless.com.br/)
-* [Devnaestrada](https://devnaestrada.com.br/)
-* [Guj](https://www.guj.com.br/)
-* [Fórum Imarters](https://forum.imasters.com.br/)
-
