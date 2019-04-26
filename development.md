@@ -16,6 +16,7 @@
 * [Codeanywhere](https://codeanywhere.com/)
 * [Cloud9](https://aws.amazon.com/pt/cloud9/)
 * [JsFiddle](https://jsfiddle.net/)
+* [PhpFiddle](https://phpfiddle.org/)
 * [PythonFiddle](http://pythonfiddle.com/)
 
 ### Fóruns
