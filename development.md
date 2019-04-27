@@ -11,14 +11,6 @@
 * [Admin LTE 2](https://adminlte.io/themes/AdminLTE/)
 * [Bracket plus](http://themepixels.me/bracketplus/app/)
 
-### Cloud Computing
-
-* [Codeanywhere](https://codeanywhere.com/)
-* [Cloud9](https://aws.amazon.com/pt/cloud9/)
-* [JsFiddle](https://jsfiddle.net/)
-* [PhpFiddle](https://phpfiddle.org/)
-* [PythonFiddle](http://pythonfiddle.com/)
-
 ### Fóruns
 
 * [Devnaestrada](https://devnaestrada.com.br/)
