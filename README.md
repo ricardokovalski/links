@@ -9,13 +9,13 @@
 
 * [Charts](/development.md#charts)
 * [Dashboards](/development.md#dashboards)
-* [Cloud Computing](/development.md#cloud-computing)
 * [Foruns](/development.md#foruns)
 * [Frameworks FrontEnd](/development.md#frameworks-frontend)
 * [Outros](/development.md#outros)
 
 ### Ferramentas
 
+* [Cloud Computing](/tools.md#cloud-computing)
 * [Design](/tools.md#design)
 * [Envio de E-mails](/tools.md#envio-de-emails)
 * [Imagens](/tools.md#imagens)
