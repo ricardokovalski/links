@@ -1,5 +1,13 @@
 # Ferramentas
 
+### Cloud Computing
+
+* [Codeanywhere](https://codeanywhere.com/)
+* [Cloud9](https://aws.amazon.com/pt/cloud9/)
+* [JsFiddle](https://jsfiddle.net/)
+* [PhpFiddle](https://phpfiddle.org/)
+* [PythonFiddle](http://pythonfiddle.com/)
+
 ### Design
 
 * [Adobe Color](https://color.adobe.com/pt/create/)
