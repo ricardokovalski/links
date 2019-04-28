@@ -37,3 +37,4 @@
 * [Snippi](http://snippi.com/)
 * [Codepen](https://codepen.io/)
 * [Panda](https://usepanda.com/)
+* [W3schools](https://www.w3schools.com)
