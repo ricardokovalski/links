@@ -39,3 +39,4 @@
 * [Panda](https://usepanda.com/)
 * [W3schools](https://www.w3schools.com)
 * [Git - Guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+* [Webdevchecklist](http://webdevchecklist.com/)
