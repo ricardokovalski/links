@@ -14,6 +14,7 @@
 * [Colorfavs](http://www.colorfavs.com/)
 * [Colourco](https://colourco.de/)
 * [Coolors](https://coolors.co/)
+* [Flaticon](https://www.flaticon.com/)
 * [Flatuicolors](https://flatuicolors.com/)
 * [Uigradients](https://uigradients.com/)
 * [Materialui](https://www.materialui.co/)
