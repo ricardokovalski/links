@@ -1,5 +1,11 @@
 # Desenvolvimento
 
+### Calendar
+
+* [Datepicker](https://bootstrap-datepicker.readthedocs.io/)
+* [Fullcalendar](https://fullcalendar.io/)
+* [Uicalendar](http://angular-ui.github.io/ui-calendar/)
+
 ### Charts
 
 * [Chartist JS](https://gionkunz.github.io/chartist-js/)
