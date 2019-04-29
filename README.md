@@ -7,6 +7,7 @@
 
 ### Desenvolvimento
 
+* [Calendar](/development.md#calendar)
 * [Charts](/development.md#charts)
 * [Dashboards](/development.md#dashboards)
 * [Foruns](/development.md#foruns)
