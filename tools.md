@@ -35,6 +35,7 @@
 
 * [Generator Profile Photos](https://thispersondoesnotexist.com/)
 * [LightShot](https://app.prntscr.com/pt-br/index.html)
+* [Picsum Photos](https://picsum.photos/)
 
 ### Validação de Dados
 
