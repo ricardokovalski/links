@@ -46,3 +46,4 @@
 * [W3schools](https://www.w3schools.com)
 * [Git - Guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 * [Webdevchecklist](http://webdevchecklist.com/)
+* [Linguee](https://www.linguee.com.br/)
