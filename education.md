@@ -9,6 +9,7 @@
 * [EspecializaTi](https://www.especializati.com.br/)
 * [Next U](https://www.nextu.com.br/)
 * [GuiaCódigo](https://www.guiacodigo.com/)
+* [Origamid](https://www.origamid.com)
 * [School of Net](https://www.schoolofnet.com/)
 * [TargetTrust](https://targettrust.com.br/)
 * [Treinaweb](https://www.treinaweb.com.br/)
