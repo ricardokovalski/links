@@ -4,6 +4,7 @@
 
 * [4Linux](https://www.4linux.com.br/)
 * [Alura](https://www.alura.com.br/)
+* [B7web](https://b7web.com.br/home/)
 * [Caelum](https://www.caelum.com.br/)
 * [Devmedia](https://www.devmedia.com.br/)
 * [EspecializaTi](https://www.especializati.com.br/)
@@ -15,7 +16,6 @@
 * [Treinaweb](https://www.treinaweb.com.br/)
 * [Udemy](https://www.udemy.com/)
 * [Upinside](https://www.upinside.com.br/)
-* [b7web](https://b7web.com.br/react-native/)
 
 ### Editoras
 
