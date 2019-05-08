@@ -21,4 +21,5 @@
 * [Envio de E-mails](/tools.md#envio-de-emails)
 * [Gerenciamento de Tarefas](/tools.md#gerenciamento-de-tarefas)
 * [Imagens](/tools.md#imagens)
+* [Testes](/tools.md#testes)
 * [Validação de Dados](/tools.md#validacao-de-dados)
