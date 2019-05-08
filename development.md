@@ -31,7 +31,9 @@
 ### Frameworks FrontEnd
 
 * [Bootstrap](https://getbootstrap.com/)
+* [Designmodo](http://designmodo.github.io/Flat-UI/)
 * [Materialize](https://materializecss.com/)
+* [PureCSS](https://purecss.io/)
 
 ### Outros
 
