@@ -15,6 +15,7 @@
 * [Treinaweb](https://www.treinaweb.com.br/)
 * [Udemy](https://www.udemy.com/)
 * [Upinside](https://www.upinside.com.br/)
+* [b7web](https://b7web.com.br/react-native/)
 
 ### Editoras
 
