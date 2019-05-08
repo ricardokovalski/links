@@ -17,6 +17,10 @@
 * [Admin LTE 2](https://adminlte.io/themes/AdminLTE/)
 * [Bracket plus](http://themepixels.me/bracketplus/app/)
 
+### Documentação
+
+* [Devdocs](https://devdocs.io/)
+
 ### Fóruns
 
 * [Devnaestrada](https://devnaestrada.com.br/)
@@ -47,3 +51,4 @@
 * [Git - Guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 * [Webdevchecklist](http://webdevchecklist.com/)
 * [Linguee](https://www.linguee.com.br/)
+
