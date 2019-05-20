@@ -36,6 +36,8 @@
 * [Materialize](https://materializecss.com/)
 * [PureCSS](https://purecss.io/)
 
+### Repositórios Github
+
 ### Outros
 
 * [Ebookfoudation](https://ebookfoundation.github.io/free-programming-books/)
@@ -55,4 +57,4 @@
 * [Webdevchecklist](http://webdevchecklist.com/)
 * [Linguee](https://www.linguee.com.br/)
 * [PHP-FIG](https://www.php-fig.org/)
-
+* [Manifesto Ágil](https://www.manifestoagil.com.br/)
