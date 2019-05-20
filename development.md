@@ -54,4 +54,5 @@
 * [Git - Guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 * [Webdevchecklist](http://webdevchecklist.com/)
 * [Linguee](https://www.linguee.com.br/)
+* [PHP-FIG](https://www.php-fig.org/)
 
