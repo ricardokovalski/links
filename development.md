@@ -38,22 +38,23 @@
 
 ### Repositórios Github
 
+* [Ebookfoudation](https://ebookfoundation.github.io/free-programming-books/)
+* [School of Net - Github](https://github.com/schoolofnetcom/)
+* [EspecializaTi - Github](https://github.com/EspecializaTi/)
+* [Git - Guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+
 ### Outros
 
-* [Ebookfoudation](https://ebookfoundation.github.io/free-programming-books/)
 * [Font Awesome](https://fontawesome.com)
-* [School of Net - Github](https://github.com/schoolofnetcom/)
 * [Tableless](https://tableless.com.br)
 * [TIOBE - Ranking das Linguagens de programação](https://www.tiobe.com/tiobe-index/)
 * [Imasters](https://imasters.com.br/)
-* [EspecializaTi - Github](https://github.com/EspecializaTi/)
 * [Oauth](https://oauth.io/)
 * [Sublime Text](https://www.sublimetext.com/)
 * [Snippi](http://snippi.com/)
 * [Codepen](https://codepen.io/)
 * [Panda](https://usepanda.com/)
 * [W3schools](https://www.w3schools.com)
-* [Git - Guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 * [Webdevchecklist](http://webdevchecklist.com/)
 * [Linguee](https://www.linguee.com.br/)
 * [PHP-FIG](https://www.php-fig.org/)
