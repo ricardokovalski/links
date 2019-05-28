@@ -23,7 +23,9 @@
 
 ### Editores de Texto
 
+* [Atom](https://atom.io/)
 * [Sublime Text](https://www.sublimetext.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Envio de Emails
 
