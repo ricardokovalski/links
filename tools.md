@@ -21,6 +21,10 @@
 * [Palettable](https://www.palettable.io/)
 * [Shutterstock](https://www.shutterstock.com/)
 
+### Editores de Texto
+
+* [Sublime Text](https://www.sublimetext.com/)
+
 ### Envio de Emails
 
 * [Mailtrap](https://mailtrap.io/)
@@ -40,6 +44,10 @@
 ### Testes
 
 * [Materialio](https://material.io/)
+
+### Tradutores
+
+* [Linguee](https://www.linguee.com.br/)
 
 ### Validação de Dados
 
