@@ -18,8 +18,10 @@
 
 * [Cloud Computing](/tools.md#cloud-computing)
 * [Design](/tools.md#design)
+* [Editores de Texto](/tools.md#editores-de-texto)
 * [Envio de E-mails](/tools.md#envio-de-emails)
 * [Gerenciamento de Tarefas](/tools.md#gerenciamento-de-tarefas)
 * [Imagens](/tools.md#imagens)
 * [Testes](/tools.md#testes)
+* [Tradutores](/tools.md#tradutores)
 * [Validação de Dados](/tools.md#validacao-de-dados)
