@@ -1,11 +1,5 @@
 # Desenvolvimento
 
-### Artigos
-
-* [Imasters](https://imasters.com.br/)
-* [Mundo Docker](https://www.mundodocker.com.br/)
-* [Tableless](https://tableless.com.br)
-
 ### Calendar
 
 * [Datepicker](https://bootstrap-datepicker.readthedocs.io/)
