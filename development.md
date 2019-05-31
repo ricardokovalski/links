@@ -49,7 +49,6 @@
 * [TIOBE - Ranking das Linguagens de programação](https://www.tiobe.com/tiobe-index/)
 * [Oauth](https://oauth.io/)
 * [Snippi](http://snippi.com/)
-* [Codepen](https://codepen.io/)
 * [Panda](https://usepanda.com/)
 * [W3schools](https://www.w3schools.com)
 * [Webdevchecklist](http://webdevchecklist.com/)
