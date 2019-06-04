@@ -4,9 +4,9 @@
 
 * [Imasters](https://imasters.com.br/)
 * [Mundo Docker](https://www.mundodocker.com.br/)
-* [Tableless](https://tableless.com.br)
 * [Olhar Digital](https://olhardigital.com.br/)
 * [Onebitcode](https://onebitcode.com/)
+* [Tableless](https://tableless.com.br)
 
 ### Cursos Online
 
