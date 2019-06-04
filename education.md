@@ -19,6 +19,7 @@
 * [Next U](https://www.nextu.com.br/)
 * [GuiaCódigo](https://www.guiacodigo.com/)
 * [Origamid](https://www.origamid.com)
+* [Rocketseat](https://rocketseat.com.br/)
 * [School of Net](https://www.schoolofnet.com/)
 * [TargetTrust](https://targettrust.com.br/)
 * [Treinaweb](https://www.treinaweb.com.br/)
