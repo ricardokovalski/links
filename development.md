@@ -24,6 +24,7 @@
 ### Eventos
 
 * [Eventos.FrontendBR](https://eventos.frontendbr.com.br/)
+* [Eventos.BackendBR](https://backendbrasil.com.br/)
 
 ### Fóruns
 
