@@ -21,6 +21,10 @@
 
 * [Devdocs](https://devdocs.io/)
 
+### Eventos
+
+* [Eventos.FrontendBR](https://eventos.frontendbr.com.br/)
+
 ### Fóruns
 
 * [Devnaestrada](https://devnaestrada.com.br/)
