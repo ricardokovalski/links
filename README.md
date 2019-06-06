@@ -11,6 +11,7 @@
 * [Calendar](/development.md#calendar)
 * [Charts](/development.md#charts)
 * [Dashboards](/development.md#dashboards)
+* [Eventos](/development.md#eventos)
 * [Foruns](/development.md#foruns)
 * [Frameworks FrontEnd](/development.md#frameworks-frontend)
 * [Outros](/development.md#outros)
