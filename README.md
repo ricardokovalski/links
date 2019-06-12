@@ -20,6 +20,7 @@
 
 * [Cloud Computing](/tools.md#cloud-computing)
 * [Design](/tools.md#design)
+* [Docker](/tools.md#docker)
 * [Editores de Texto](/tools.md#editores-de-texto)
 * [Envio de E-mails](/tools.md#envio-de-emails)
 * [Gerenciamento de Tarefas](/tools.md#gerenciamento-de-tarefas)
