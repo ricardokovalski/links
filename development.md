@@ -59,3 +59,4 @@
 * [Webdevchecklist](http://webdevchecklist.com/)
 * [PHP-FIG](https://www.php-fig.org/)
 * [Manifesto Ágil](https://www.manifestoagil.com.br/)
+* [Gerador de Nomes](https://www.fantasynamegenerators.com)
