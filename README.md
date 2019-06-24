@@ -25,6 +25,7 @@
 * [Envio de E-mails](/tools.md#envio-de-emails)
 * [Gerenciamento de Tarefas](/tools.md#gerenciamento-de-tarefas)
 * [Imagens](/tools.md#imagens)
+* [Minificadores Online](/tools.md#minificadores-online)
 * [Testes](/tools.md#testes)
 * [Tradutores](/tools.md#tradutores)
 * [Validação de Dados](/tools.md#validacao-de-dados)
