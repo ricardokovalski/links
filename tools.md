@@ -50,6 +50,11 @@
 * [LightShot](https://app.prntscr.com/pt-br/index.html)
 * [Picsum Photos](https://picsum.photos/)
 
+### Minificadores Online
+
+* [Jscompress](https://jscompress.com/)
+* [Javascript-minifier](https://javascript-minifier.com/)
+
 ### Testes
 
 * [Materialio](https://material.io/)
