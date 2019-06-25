@@ -28,4 +28,4 @@
 * [Minificadores Online](/tools.md#minificadores-online)
 * [Testes](/tools.md#testes)
 * [Tradutores](/tools.md#tradutores)
-* [Validação de Dados](/tools.md#validacao-de-dados)
+* [Validação de Dados](/tools.md#validação-de-dados)
