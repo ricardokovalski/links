@@ -38,6 +38,15 @@
 
 * [Mailtrap](https://mailtrap.io/)
 
+### Formatters
+
+* [JsonFormatter & Validator](https://jsonformatter.curiousconcept.com/)
+* [DataConverter](https://dataconverter.curiousconcept.com/)
+* [JsonPath](https://jsonpath.curiousconcept.com/)
+* [JsonSelect](https://jsonselect.curiousconcept.com/)
+* [JsonFormatter-Online](https://jsonformatter-online.com/)
+* [FreeFormatter](https://www.freeformatter.com/)
+
 ### Gerenciamento de Tarefas
 
 * [ClickUp](https://app.clickup.com/)
