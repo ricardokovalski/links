@@ -50,6 +50,7 @@
 
 ### Outros
 
+* [Carbon - Ferramenta para exportar imagens de código-fonte.](https://carbon.now.sh/)
 * [Font Awesome](https://fontawesome.com)
 * [TIOBE - Ranking das Linguagens de programação](https://www.tiobe.com/tiobe-index/)
 * [Oauth](https://oauth.io/)
