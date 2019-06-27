@@ -3,6 +3,7 @@
 ### Artigos
 
 * [Imasters](https://imasters.com.br/)
+* [Medium](https://medium.com/) 
 * [Mundo Docker](https://www.mundodocker.com.br/)
 * [Olhar Digital](https://olhardigital.com.br/)
 * [Onebitcode](https://onebitcode.com/)
@@ -13,6 +14,7 @@
 * [4Linux](https://www.4linux.com.br/)
 * [Alura](https://www.alura.com.br/)
 * [B7web](https://b7web.com.br/home/)
+* [Balta.io](https://balta.io/)
 * [Caelum](https://www.caelum.com.br/)
 * [Devmedia](https://www.devmedia.com.br/)
 * [EspecializaTi](https://www.especializati.com.br/)
