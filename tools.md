@@ -20,6 +20,7 @@
 * [Flaticon](https://www.flaticon.com/)
 * [Flatuicolors](https://flatuicolors.com/)
 * [Uigradients](https://uigradients.com/)
+* [Materialio](https://material.io/)
 * [Materialui](https://www.materialui.co/)
 * [Palettable](https://www.palettable.io/)
 * [Shutterstock](https://www.shutterstock.com/)
@@ -41,12 +42,12 @@
 
 ### Formatters
 
-* [JsonFormatter & Validator](https://jsonformatter.curiousconcept.com/)
 * [DataConverter](https://dataconverter.curiousconcept.com/)
-* [JsonPath](https://jsonpath.curiousconcept.com/)
-* [JsonSelect](https://jsonselect.curiousconcept.com/)
 * [JsonFormatter-Online](https://jsonformatter-online.com/)
 * [FreeFormatter](https://www.freeformatter.com/)
+* [JsonFormatter & Validator](https://jsonformatter.curiousconcept.com/)
+* [JsonPath](https://jsonpath.curiousconcept.com/)
+* [JsonSelect](https://jsonselect.curiousconcept.com/)
 
 ### Gerenciamento de Tarefas
 
@@ -62,12 +63,8 @@
 
 ### Minificadores Online
 
-* [Jscompress](https://jscompress.com/)
 * [Javascript-minifier](https://javascript-minifier.com/)
-
-### Testes
-
-* [Materialio](https://material.io/)
+* [Jscompress](https://jscompress.com/)
 
 ### Tradutores
 
