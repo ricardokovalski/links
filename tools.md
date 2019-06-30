@@ -11,6 +11,11 @@
 * [PythonFiddle](http://pythonfiddle.com/)
 * [Repl.it](https://Repl.it/)
 
+### Colaboração
+
+* [Discord](https://discordapp.com/)
+* [Slack](https://slack.com/)
+
 ### Design
 
 * [Adobe Color](https://color.adobe.com/pt/create/)
