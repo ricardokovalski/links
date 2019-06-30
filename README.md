@@ -19,6 +19,7 @@
 ### Ferramentas
 
 * [Cloud Computing](/tools.md#cloud-computing)
+* [Colaboração](/tools.md#colaboração)
 * [Design](/tools.md#design)
 * [Docker](/tools.md#docker)
 * [Editores de Texto](/tools.md#editores-de-texto)
