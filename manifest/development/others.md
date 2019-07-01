@@ -1,0 +1,18 @@
+## Outros
+
+* [Devdocs](https://devdocs.io/)
+* [Ebookfoudation](https://ebookfoundation.github.io/free-programming-books/)
+* [School of Net - Github](https://github.com/schoolofnetcom/)
+* [EspecializaTi - Github](https://github.com/EspecializaTi/)
+* [Git - Guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+* [Carbon - Ferramenta para exportar imagens de código-fonte.](https://carbon.now.sh/)
+* [Font Awesome](https://fontawesome.com)
+* [TIOBE - Ranking das Linguagens de programação](https://www.tiobe.com/tiobe-index/)
+* [Oauth](https://oauth.io/)
+* [Snippi](http://snippi.com/)
+* [Panda](https://usepanda.com/)
+* [W3schools](https://www.w3schools.com)
+* [Webdevchecklist](http://webdevchecklist.com/)
+* [PHP-FIG](https://www.php-fig.org/)
+* [Manifesto Ágil](https://www.manifestoagil.com.br/)
+* [Gerador de Nomes](https://www.fantasynamegenerators.com/)
