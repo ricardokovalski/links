@@ -1,5 +1,9 @@
 # Helpful Links Library
 
+> Autor: **[Ricardo Kovalski](https://github.com/ricardokovalski)**
+
+## Sumário
+
 ### Desenvolvimento
 
 * [Bibliotecas](/manifest/development/libraries.md)
