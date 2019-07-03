@@ -1,6 +1,5 @@
 ## Artigos
 
-* [Becode](https://becode.com.br/)
 * [Imasters](https://imasters.com.br/)
 * [Medium](https://medium.com/) 
 * [Mundo Docker](https://www.mundodocker.com.br/)

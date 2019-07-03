@@ -37,6 +37,7 @@
 ### Educação
 
 * [Artigos](/manifest/education/articles.md)
+* [Blogs](/manifest/education/blogs.md)
 * [Cursos](/manifest/education/courses.md)
 * [Editoras](/manifest/education/publishing-company.md)
 
