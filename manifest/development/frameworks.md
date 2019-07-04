@@ -3,14 +3,21 @@
 ### Backend
 
 * [CakePHP](https://cakephp.org/)
+* [CodeIgniter](https://codeigniter.com/)
 * [Django](https://www.djangoproject.com/)
 * [Express](https://expressjs.com/)
 * [Flask](http://flask.pocoo.org/)
+* [FuelPHP](https://fuelphp.com/)
 * [Laravel](https://laravel.com/)
+* [Phalcon](https://phalconphp.com/en/)
+* [PHPixie](https://phpixie.com/)
 * [Phoenix](https://phoenixframework.org/)
 * [Ruby on Rails](https://rubyonrails.org/)
+* [Slim](https://www.slimframework.com/)
 * [Spring](https://spring.io/)
-
+* [Symfony](https://symfony.com/)
+* [Zend Framework](https://framework.zend.com/)
+* [Yii 2](https://www.yiiframework.com/)
 
 ### Frontend
 
