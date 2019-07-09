@@ -8,6 +8,7 @@
 * [Devmedia](https://www.devmedia.com.br/)
 * [EspecializaTi](https://www.especializati.com.br/)
 * [GuiaCódigo](https://www.guiacodigo.com/)
+* [HouseCursos](https://www.housecursos.com/)
 * [Next U](https://www.nextu.com.br/)
 * [Origamid](https://www.origamid.com)
 * [Rocketseat](https://rocketseat.com.br/)
