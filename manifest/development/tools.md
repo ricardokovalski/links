@@ -63,11 +63,15 @@
 ### Imagens
 
 * [Generator Profile Photos](https://thispersondoesnotexist.com/)
+* [Image_Resize](https://img-resize.com/)
+* [JPG Optimiser](https://jpgoptimiser.com/)
 * [LightShot](https://app.prntscr.com/pt-br/index.html)
-* [Picsum Photos](https://picsum.photos/)
+* [Lorem Picsum](https://picsum.photos/)
+* [PNG Crush](https://pngcrush.com/)
 
 ### Minificadores Online
 
+* [Cssminifier](https://cssminifier.com/)
 * [Javascript-minifier](https://javascript-minifier.com/)
 * [Jscompress](https://jscompress.com/)
 
