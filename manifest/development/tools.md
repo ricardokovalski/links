@@ -22,6 +22,7 @@
 * [Colorfavs](http://www.colorfavs.com/)
 * [Colourco](https://colourco.de/)
 * [Coolors](https://coolors.co/)
+* [Encycolorpedia](https://encycolorpedia.pt/)
 * [Flaticon](https://www.flaticon.com/)
 * [Flatuicolors](https://flatuicolors.com/)
 * [Uigradients](https://uigradients.com/)
