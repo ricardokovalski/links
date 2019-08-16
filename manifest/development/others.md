@@ -11,6 +11,7 @@
 * [Oauth](https://oauth.io/)
 * [Snippi](http://snippi.com/)
 * [Panda](https://usepanda.com/)
+* [Rapidtables](https://www.rapidtables.com/)
 * [W3schools](https://www.w3schools.com)
 * [Webdevchecklist](http://webdevchecklist.com/)
 * [PHP-FIG](https://www.php-fig.org/)
