@@ -6,10 +6,6 @@
 
 ### Desenvolvimento
 
-* [Bibliotecas](/manifest/development/libraries.md)
-* [Eventos](/manifest/development/events.md)
-    * [Backend](/manifest/development/events.md#backend)
-    * [Frontend](/manifest/development/events.md#frontend)
 * [Ferramentas](/manifest/development/tools.md)
     * [Cloud Computing](/manifest/development/tools.md#cloud-computing)
     * [Colaboração](/manifest/development/tools.md#colaboração)
